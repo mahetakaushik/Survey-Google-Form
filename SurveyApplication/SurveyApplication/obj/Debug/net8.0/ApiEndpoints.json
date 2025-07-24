@@ -1,0 +1,87 @@
+[
+  {
+    "ContainingType": "SurveyController",
+    "Method": "GetSurvey",
+    "RelativePath": "api/Survey/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SurveyController",
+    "Method": "CreateSurvey",
+    "RelativePath": "api/Survey/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "survey",
+        "Type": "SurveyApplication.Models.Survey",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SurveyController",
+    "Method": "GetResponsesByEmail",
+    "RelativePath": "api/Survey/responses-by-email",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SurveyController",
+    "Method": "SubmitResponse",
+    "RelativePath": "api/Survey/submit-response",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "SurveyApplication.DTOs.SurveyResponseDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SurveyController",
+    "Method": "UpdateResponse",
+    "RelativePath": "api/Survey/update-response/{responseId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "responseId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "SurveyApplication.DTOs.UpdateResponseDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Hitesh\\ContactManagement\\SurveyApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5483732C-E92D-42DC-AF74-75472AD29DB4}|SurveyApplication\\SurveyApplication.csproj|c:\\hitesh\\contactmanagement\\surveyapplication\\surveyapplication\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483732C-E92D-42DC-AF74-75472AD29DB4}|SurveyApplication\\SurveyApplication.csproj|solutionrelative:surveyapplication\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483732C-E92D-42DC-AF74-75472AD29DB4}|SurveyApplication\\SurveyApplication.csproj|c:\\hitesh\\contactmanagement\\surveyapplication\\surveyapplication\\dtos\\answerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483732C-E92D-42DC-AF74-75472AD29DB4}|SurveyApplication\\SurveyApplication.csproj|solutionrelative:surveyapplication\\dtos\\answerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483732C-E92D-42DC-AF74-75472AD29DB4}|SurveyApplication\\SurveyApplication.csproj|c:\\hitesh\\contactmanagement\\surveyapplication\\surveyapplication\\dtos\\surveyresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483732C-E92D-42DC-AF74-75472AD29DB4}|SurveyApplication\\SurveyApplication.csproj|solutionrelative:surveyapplication\\dtos\\surveyresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5483732C-E92D-42DC-AF74-75472AD29DB4}|SurveyApplication\\SurveyApplication.csproj|c:\\hitesh\\contactmanagement\\surveyapplication\\surveyapplication\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5483732C-E92D-42DC-AF74-75472AD29DB4}|SurveyApplication\\SurveyApplication.csproj|solutionrelative:surveyapplication\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Hitesh\\ContactManagement\\SurveyApplication\\SurveyApplication\\Models\\Response.cs",
+              "RelativeDocumentMoniker": "SurveyApplication\\Models\\Response.cs",
+              "ToolTip": "C:\\Hitesh\\ContactManagement\\SurveyApplication\\SurveyApplication\\Models\\Response.cs",
+              "RelativeToolTip": "SurveyApplication\\Models\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:31:15.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SurveyResponseDto.cs",
+              "DocumentMoniker": "C:\\Hitesh\\ContactManagement\\SurveyApplication\\SurveyApplication\\DTOs\\SurveyResponseDto.cs",
+              "RelativeDocumentMoniker": "SurveyApplication\\DTOs\\SurveyResponseDto.cs",
+              "ToolTip": "C:\\Hitesh\\ContactManagement\\SurveyApplication\\SurveyApplication\\DTOs\\SurveyResponseDto.cs",
+              "RelativeToolTip": "SurveyApplication\\DTOs\\SurveyResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:30:20.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnswerDto.cs",
+              "DocumentMoniker": "C:\\Hitesh\\ContactManagement\\SurveyApplication\\SurveyApplication\\DTOs\\AnswerDto.cs",
+              "RelativeDocumentMoniker": "SurveyApplication\\DTOs\\AnswerDto.cs",
+              "ToolTip": "C:\\Hitesh\\ContactManagement\\SurveyApplication\\SurveyApplication\\DTOs\\AnswerDto.cs",
+              "RelativeToolTip": "SurveyApplication\\DTOs\\AnswerDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:05:49.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SurveyController.cs",
+              "DocumentMoniker": "C:\\Hitesh\\ContactManagement\\SurveyApplication\\SurveyApplication\\Controllers\\SurveyController.cs",
+              "RelativeDocumentMoniker": "SurveyApplication\\Controllers\\SurveyController.cs",
+              "ToolTip": "C:\\Hitesh\\ContactManagement\\SurveyApplication\\SurveyApplication\\Controllers\\SurveyController.cs",
+              "RelativeToolTip": "SurveyApplication\\Controllers\\SurveyController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAcwJEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:49:09.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

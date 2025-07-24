@@ -1,0 +1,15 @@
+﻿using System.Text.Json.Serialization;
+
+namespace SurveyApplication.Models
+{
+    public class Option
+    {
+        public int Id { get; set; }
+        public string Text { get; set; }
+
+        public int QuestionId { get; set; }
+
+        [JsonIgnore]
+        public Question? Question { get; set; }
+    }
+}
